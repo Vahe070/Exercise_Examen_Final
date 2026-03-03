@@ -1,5 +1,5 @@
 import unittest
-from src.calculatrice import division, puissance, moyenne
+from calculatrice import division, puissance, moyenne
 
 class TestCalculatrice(unittest.TestCase):
 
